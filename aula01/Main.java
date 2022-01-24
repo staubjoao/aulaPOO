@@ -13,6 +13,7 @@ public class Main {
     c1.roda = 5;
     c1.velocidade = 0;
 
+    System.out.println(".........." + c1.hashCode());
     System.out.println("Ano do carro: " + c1.ano);
     System.out.println("Marca do carro: " + c1.marca);
     System.out.println("Modelo do carro: " + c1.modelo);
@@ -31,6 +32,7 @@ public class Main {
     c2.velocidade = 0;
 
     System.out.print("\n");
+    System.out.println(".........." + c2.hashCode());
     System.out.println("Ano do carro: " + c2.ano);
     System.out.println("Marca do carro: " + c2.marca);
     System.out.println("Modelo do carro: " + c2.modelo);
