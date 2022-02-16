@@ -22,32 +22,32 @@ public class Main {
             estado[i] = new Estado();
         }
 
-        estado = { Estado("AC", "Acre"),
-                Estado("AL", "Alagoas"),
-                Estado("AP", "Amapá"),
-                Estado("AM", "Amazonas"),
-                Estado("BA", "Bahia"),
-                Estado("CE", "Ceará"),
-                Estado("DF", "Distrito Federal"),
-                Estado("ES", "Espírito Santo"),
-                Estado("GO", "Goiás"),
-                Estado("MA", "Maranhão"),
-                Estado("MT", "Mato Grosso"),
-                Estado("MS", "Mato Grosso do Sul"),
-                Estado("MG", "Minas Gerais"),
-                Estado("PA", "Pará"),
-                Estado("PB", "Paraíba"),
-                Estado("PR", "Paraná"),
-                Estado("PE", "Pernambuco"),
-                Estado("PI", "Piauí"),
-                Estado("RJ", "Rio de Janeiro"),
-                Estado("RN", "Rio Grande do Norte"),
-                Estado("RS", "Rio Grande do Sul"),
-                Estado("RO", "Rondônia"),
-                Estado("RR", "Roraima"),
-                Estado("SC", "Santa Catarina"),
-                Estado("SP", "São Paulo"),
-                Estado("SE", "Sergipe"),
-                Estado("TO", "Tocantins") };
+        estado[0] = Estado("AC", "Acre");
+        estado[1] = Estado("AL", "Alagoas");
+        estado[2] = Estado("AP", "Amapá");
+        estado[3] = Estado("AM", "Amazonas");
+        estado[4] = Estado("BA", "Bahia");
+        estado[5] = Estado("CE", "Ceará");
+        estado[6] = Estado("DF", "Distrito Federal");
+        estado[7] = Estado("ES", "Espírito Santo");
+        estado[8] = Estado("GO", "Goiás");
+        estado[9] = Estado("MA", "Maranhão");
+        estado[10] = Estado("MT", "Mato Grosso");
+        estado[11] = Estado("MS", "Mato Grosso do Sul");
+        estado[12] = Estado("MG", "Minas Gerais");
+        estado[13] = Estado("PA", "Pará");
+        estado[14] = Estado("PB", "Paraíba");
+        estado[15] = Estado("PR", "Paraná");
+        estado[16] = Estado("PE", "Pernambuco");
+        estado[17] = Estado("PI", "Piauí");
+        estado[18] = Estado("RJ", "Rio de Janeiro");
+        estado[19]  = Estado("RN", "Rio Grande do Norte");
+        estado[20]  = Estado("RS", "Rio Grande do Sul");
+        estado[21]  = Estado("RO", "Rondônia");
+        estado[22]  = Estado("RR", "Roraima");
+        estado[23]  = Estado("SC", "Santa Catarina");
+        estado[24]  = Estado("SP", "São Paulo");
+        estado[25]  = Estado("SE", "Sergipe");
+        estado[26]  = Estado("TO", "Tocantins");
     }
 }
